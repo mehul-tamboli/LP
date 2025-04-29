@@ -1,0 +1,4 @@
+g++ -fopenmp filename.cpp -o outputname
+g++ bfs_openmp.cpp -fopenmp -o bfs
+./outputname
+./bfs
